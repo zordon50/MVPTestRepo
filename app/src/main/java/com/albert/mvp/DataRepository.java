@@ -7,6 +7,7 @@ import java.util.List;
 public class DataRepository {
     public List<String> getFamilyNames() {
         // Retrieve dummy data
-        return Arrays.asList("Albert", "Sally", "Ollie", "Soonji", "Fanny");
+        // Add this comment to hopefully provoke a merge conflict
+        return Arrays.asList("Albert", "Sally", "Ollie");
     }
 }
