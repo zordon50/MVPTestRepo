@@ -7,6 +7,6 @@ import java.util.List;
 public class DataRepository {
     public List<String> getFamilyNames() {
         // Retrieve dummy data
-        return Arrays.asList("Albert", "Sally", "Ollie");
+        return Arrays.asList("Albert", "Sally", "Ollie", "Soonji", "Fanny");
     }
 }
