@@ -8,6 +8,6 @@ public class DataRepository {
     public List<String> getFamilyNames() {
         // Retrieve dummy data
         // Add this comment to hopefully provoke a merge conflict
-        return Arrays.asList("Albert", "Sally", "Ollie");
+        return Arrays.asList("Albert", "Sally", "Ollie", "Soonji", "Fanny");
     }
 }
