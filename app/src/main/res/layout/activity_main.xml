@@ -4,12 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#b3b3b3"
     tools:context="com.albert.mvp.MainActivity">
 
     <TextView
         android:id="@+id/familyText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20sp"/>
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:hint="@string/hello_forked_repo"/>
 
 </LinearLayout>

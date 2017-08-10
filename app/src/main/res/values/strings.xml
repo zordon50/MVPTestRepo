@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVP</string>
+    <string name="hello_forked_repo">Hello forked repo</string>
 </resources>
